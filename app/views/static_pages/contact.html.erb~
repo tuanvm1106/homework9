@@ -1,0 +1,9 @@
+<% provide(:title,"Contact")%>
+<h1>Contact</h1>
+
+<p>
+	<h3><b>Kiều Lê Việt</b></h3>
+	<h4><b>K56 HEDSPI - HUST</b></h4><br>
+	Email: <a href="vandt156@gmail.com">vandt156@gmail.com </a><br>
+	Facebook: <a href="https://www.facebook.com/profile.php?id=100007475953052">Kiều Việt</a>
+</p>
